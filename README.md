@@ -1,6 +1,6 @@
 # fixedhashmap
 
-A fixed hashmap implementation in Go.
+A fixed hashmap implementation in Go using linear probing.
 
 ## Running the tests
 
