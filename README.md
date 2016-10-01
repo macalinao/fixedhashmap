@@ -6,4 +6,4 @@ A fixed hashmap implementation in Go.
 
 First, ensure Go is installed. If you use a Mac, it should be as simple as `brew install go`.
 
-You can run `go test` to run all the tests.
+Then, run `go test` in this directory to run all the tests.
