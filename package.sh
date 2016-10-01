@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-rm fixedhashmap.zip
+rm -f fixedhashmap.zip
 zip -r fixedhashmap.zip \
     README.md \
     fixedhashmap.go \
